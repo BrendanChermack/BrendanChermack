@@ -6,7 +6,6 @@ I am a Software Developer/Web Developer
 
 Passionate about programming and creation, I am a self-motivated individual with a knack for self-teaching. I thrive on the exhilarating process of bringing ideas to life through coding. From making this website, to automating tasks, I love seeing a project I make have an actual use. I am currently a sophomore student at Saint Cloud State University, where I am pursuing my education in the field of Computer Science. While I take my education seriously, I strive to put myself ahead my peers by consistently challenging myself by doing difficult projects and tasks unrelated to my academic classes.
 
-* 🌍  I'm based in Minnesota
 * ✉️  You can contact me at [ChermackBrendan@gmail.com](mailto:ChermackBrendan@gmail.com)
 * 🧠  I'm learning Web Development techonolgies
 * 🤝  I'm open to collaborating on Web Applications
