@@ -6,6 +6,7 @@ I am a Software Developer/Web Developer
 
 Passionate about programming and creation, I am a self-motivated individual with a knack for self-teaching. I thrive on the exhilarating process of bringing ideas to life through coding. From making this website, to automating tasks, I love seeing a project I make have an actual use. I am currently a sophomore student at Saint Cloud State University, where I am pursuing my education in the field of Computer Science. While I take my education seriously, I strive to put myself ahead my peers by consistently challenging myself by doing difficult projects and tasks unrelated to my academic classes.
 
+* 🌍  I'm based in Minnesota
 * ✉️  You can contact me at [ChermackBrendan@gmail.com](mailto:ChermackBrendan@gmail.com)
 * 🧠  I'm learning Web Development techonolgies
 * 🤝  I'm open to collaborating on Web Applications
@@ -34,8 +35,6 @@ Passionate about programming and creation, I am a self-motivated individual with
 
 <p align="left"> <a href="https://www.dev.to/BrendanChermack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/BrendanChermack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/BrendanChermack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/BrendanChermack"><img src="https://github-readme-stats.vercel.app/api?username=BrendanChermack&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="BrendanChermack's GitHub stats" /></a>
+### Languages
 
 <a href="https://github.com/BrendanChermack" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendanChermack&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
