@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brendan Chermack
 ========================================================================================================================================
 
-I am a Software Developer/Web Developer
+I am a Software/Web Developer
 ---------------------------------------
 
 Passionate about programming and creation, I am a self-motivated individual with a knack for self-teaching. I thrive on the exhilarating process of bringing ideas to life through coding. From making this website, to automating tasks, I love seeing a project I make have an actual use. I am currently a sophomore student at Saint Cloud State University, where I am pursuing my education in the field of Computer Science. While I take my education seriously, I strive to put myself ahead my peers by consistently challenging myself by doing difficult projects and tasks unrelated to my academic classes.
