@@ -1,4 +1,4 @@
-<h1 text-transform="bold" color="rgb(1, 213, 213)">Welcome! My name is Brendan Chermack</h1>
+<h1 text-transform="bold" color="rgb(1, 222, 222)">Welcome! My name is Brendan Chermack</h1>
 
 
 <h2 font-wieght="bold">I am a Software/Web Developer</h2>
