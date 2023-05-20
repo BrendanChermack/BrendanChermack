@@ -1,4 +1,4 @@
-<h1 text-transform="bold">Welcome! My name is Brendan Chermack</h1>
+<h1 text-transform="bold" color="teal">Welcome! My name is Brendan Chermack</h1>
 ===========================================
 
 I am a Software/Web Developer
