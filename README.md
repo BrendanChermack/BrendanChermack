@@ -1,4 +1,4 @@
-<h1 text-transform="bold" align="center" color="rgb(1, 222, 222)">Welcome! My name is Brendan Chermack</h1>
+<h1 text-transform="bold" align="center" color="rgb(1, 222, 222)"> :wave: Welcome! My name is Brendan Chermack :wave:</h1>
 
 
 <h2 font-wieght="bold" align="center">I am a Software/Web Developer</h2>
@@ -31,9 +31,7 @@ Passionate about programming and creation, I am a self-motivated individual with
 
 
 ### Socials
-<div style="border: 2px solid teal; border-radius: 50px">
 <p align="left"> <a href="https://www.dev.to/BrendanChermack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/BrendanChermack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/BrendanChermack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-</div>
   
 ### Languages
 
