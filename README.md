@@ -1,5 +1,7 @@
 <h1 text-transform="bold" align="center" color="rgb(1, 222, 222)"> :wave: Welcome! My name is Brendan Chermack :wave:</h1>
 
+<p align="left" letter-spacing="1.3px" line-height="25px">
+<img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="36" height="36"/>
 
 <h2 font-wieght="bold" align="center">I am a Software/Web Developer</h2>
 
