@@ -1,4 +1,4 @@
-<h1 text-transform="bold" align="center" color="rgb(1, 222, 222)"> <img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="36" height="36" display="flex" align-items="center"/> Welcome! My name is Brendan Chermack <img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="36" height="36" display="flex" align-items="center"/></h1>
+<h1 text-transform="bold" align="center" color="rgb(1, 222, 222)"> :wave: Welcome! My name is Brendan Chermack :wave:</h1>
 
 <p align="center" letter-spacing="1.3px" line-height="25px">
 <img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="418" height="418" display="flex" align-items="center"/>
