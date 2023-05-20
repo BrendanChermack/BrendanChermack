@@ -1,7 +1,7 @@
-<h1 text-transform="bold" color="rgb(1, 222, 222)">Welcome! My name is Brendan Chermack</h1>
+<h1 text-transform="bold" align="center" color="rgb(1, 222, 222)">Welcome! My name is Brendan Chermack</h1>
 
 
-<h2 font-wieght="bold">I am a Software/Web Developer</h2>
+<h2 font-wieght="bold" align="center">I am a Software/Web Developer</h2>
 
 
 Passionate about programming and creation, I am a self-motivated individual with a knack for self-teaching. I thrive on the exhilarating process of bringing ideas to life through coding. From making this website, to automating tasks, I love seeing a project I make have an actual use. I am currently a sophomore student at Saint Cloud State University, where I am pursuing my education in the field of Computer Science. While I take my education seriously, I strive to put myself ahead my peers by consistently challenging myself by doing difficult projects and tasks unrelated to my academic classes.
