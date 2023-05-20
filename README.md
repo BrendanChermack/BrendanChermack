@@ -1,4 +1,4 @@
-<h1 align="center">Welcome! My name is Brendan Chermack</h1>
+<h1 padding="12.5%">Welcome! My name is Brendan Chermack</h1>
 
 
 I am a Software/Web Developer
