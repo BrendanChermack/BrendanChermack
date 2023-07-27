@@ -10,7 +10,7 @@ Passionate about programming and creation, I am a self-motivated individual with
 
 * ✉️  You can contact me at [ChermackBrendan@gmail.com](mailto:ChermackBrendan@gmail.com)
 * 🧠  I'm learning Web Development techonolgies
-* 🤝  I'm open to collaborating on Web Applications
+* 🤝  I'm open to collaborating on projects
 * ⚡  I am open to work opportunities
 
 ### Skills
