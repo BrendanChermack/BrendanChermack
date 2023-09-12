@@ -1,7 +1,8 @@
-<p align="center>
+<br/>
+<p align="center top-margin="10px">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </p>
-
+<br/>
 <h1 text-transform="bold" align="center" color="rgb(1, 222, 222)">  My name is Brendan Chermack </h1>
 
 <p align="center" letter-spacing="1.3px" line-height="25px">
