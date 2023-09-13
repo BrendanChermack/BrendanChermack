@@ -40,7 +40,7 @@ Passionate about programming and creation, I am a self-motivated individual with
 ### Socials
 <p align="left"> <a href="https://www.github.com/BrendanChermack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/BrendanChermack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
   
-### Github Statistics 📈<div align="center"> 
+### Github Statistics <div align="center"> 
 ![](https://github-readme-stats.vercel.app/api?username=BrendanChermack&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BrendanChermack&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendanChermack&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
