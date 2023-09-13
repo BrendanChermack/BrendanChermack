@@ -46,9 +46,10 @@ Passionate about programming and creation, I am a self-motivated individual with
 
 <a href="https://github.com/BrendanChermack" align="left"></a>
 <div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 10%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendanChermack&layout=compact&theme=gotham&langs_count=8"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=BrendanChermack&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  
+  <img style="height:100%;width:49%;max-width: 100%;" src="http://github-readme-streak-stats.herokuapp.com?user=BrendanChermack&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
   <img style="height:100%;width:49%;max-width: 100%; align-top: true;" src="https://github-readme-stats.vercel.app/api?username=BrendanChermack&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img style="height:100%;width:49%;max-width: 10%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendanChermack&layout=compact&theme=gotham&langs_count=8"/>
 </div>
 
 ### Trophies
